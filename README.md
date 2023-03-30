@@ -1,2 +1,2 @@
-# some sql and leetcode-SQL-Challenge practice
+# some SQL and leetcode SQL Challenge practice
 
